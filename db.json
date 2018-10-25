@@ -2,9 +2,9 @@
 	"status_code": 200,
 	"status_txt": "OK",
 	"data": {
-		"cid": "12345678",
-		"name": "Websurfer",
-		"user": "test_websurfer_nepal",
+		"cid": "121",
+		"name": "lk",
+		"user": "test_nepal",
 		"current_bouque": "WDSL 512Kbps Unlimited Monthly",
 		"current_bouque_expire_date": "23-05-2018",
 		"new_bouque_start_date": "31-05-2018"
