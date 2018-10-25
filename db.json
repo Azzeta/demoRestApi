@@ -1,0 +1,40 @@
+{
+	"status_code": 200,
+	"status_txt": "OK",
+	"data": {
+		"cid": "12345678",
+		"name": "Websurfer",
+		"user": "test_websurfer_nepal",
+		"current_bouque": "WDSL 512Kbps Unlimited Monthly",
+		"current_bouque_expire_date": "23-05-2018",
+		"new_bouque_start_date": "31-05-2018"
+	},
+	"available_plans": [{
+		"code": "RST00001",
+		"bouque": "WDSL 512Kbps Unlimited Monthly",
+		"days": 30,
+		"price": 1017
+	}, {
+		"code": "RST00002",
+		"bouque": "WDSL 512Kbps Unlimited Quarterly",
+		"days": 90,
+		"price": 2959.47
+	}, {
+		"code": "RST00003",
+		"bouque": "WDSL 512Kbps Unlimited Half Yearly",
+		"days": 180,
+		"price": 5796.9
+	}, {
+		"code": "RST00004",
+		"bouque": "WDSL 512Kbps Unlimited Yearly",
+		"days": 365,
+		"price": 10983.6
+	}, {
+		"code": "RST00005",
+		"bouque": "WDSL 768Kbps Unlimited Monthly",
+		"days": 30,
+		"price": 1243
+	}],
+	"request": "INTERNET_ACCOUNT",
+	"status": "SUCCESS"
+}
