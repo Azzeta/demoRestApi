@@ -11,27 +11,27 @@
 	},
 	"available_plans": [{
 		"code": "RST00001",
-		"bouque": "WDSL 512Kbps Unlimited Monthly",
+		"bouque": "A",
 		"days": 30,
 		"price": 1017
 	}, {
 		"code": "RST00002",
-		"bouque": "WDSL 512Kbps Unlimited Quarterly",
+		"bouque": "B",
 		"days": 90,
 		"price": 2959.47
 	}, {
 		"code": "RST00003",
-		"bouque": "WDSL 512Kbps Unlimited Half Yearly",
+		"bouque": "C",
 		"days": 180,
 		"price": 5796.9
 	}, {
 		"code": "RST00004",
-		"bouque": "WDSL 512Kbps Unlimited Yearly",
+		"bouque": "D",
 		"days": 365,
 		"price": 10983.6
 	}, {
 		"code": "RST00005",
-		"bouque": "WDSL 768Kbps Unlimited Monthly",
+		"bouque": "E",
 		"days": 30,
 		"price": 1243
 	}],
