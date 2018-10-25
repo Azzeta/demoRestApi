@@ -35,6 +35,6 @@
 		"days": 30,
 		"price": 1243
 	}],
-	"request": "INTERNET_ACCOUNT",
+	"request": "IT_ACCOUNT",
 	"status": "SUCCESS"
 }
