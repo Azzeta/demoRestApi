@@ -1,40 +1,5 @@
 {
 	"status_code": 200,
 	"status_txt": "OK",
-	"data": {
-		"cid": "121",
-		"name": "lk",
-		"user": "test_nepal",
-		"current_bouque": "WDSL 512Kbps Unlimited Monthly",
-		"current_bouque_expire_date": "23-05-2018",
-		"new_bouque_start_date": "31-05-2018"
-	},
-	"available_plans": [{
-		"code": "RST00001",
-		"bouque": "A",
-		"days": 30,
-		"price": 1017
-	}, {
-		"code": "RST00002",
-		"bouque": "B",
-		"days": 90,
-		"price": 2959.47
-	}, {
-		"code": "RST00003",
-		"bouque": "C",
-		"days": 180,
-		"price": 5796.9
-	}, {
-		"code": "RST00004",
-		"bouque": "D",
-		"days": 365,
-		"price": 10983.6
-	}, {
-		"code": "RST00005",
-		"bouque": "E",
-		"days": 30,
-		"price": 1243
-	}],
-	"request": "IT_ACCOUNT",
 	"status": "SUCCESS"
 }
